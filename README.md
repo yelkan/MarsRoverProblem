@@ -34,7 +34,7 @@ MMRMMRMRRM <br>
 5 1 E <br>
 
 # Developer Note
-The reflection structure has been set up that; it does not return to the beginning and continues from where it left off when an error occurs in sequential processes.
+The reflection structure has been set up that; it does not return to beginning and it continues from where it left, when an error occurs in sequential processes.
 
 # Development instruments
 C#, .Net Framework, Console Project, Test Project, Linq, Reflection, SOLID principles.
